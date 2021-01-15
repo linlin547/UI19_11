@@ -1,0 +1,129 @@
+2021-01-14 16:33:43,716-INFO-[bnal_homePage.py-HomeTask()-45行]-首页
+2021-01-14 16:33:56,319-INFO-[bnal_signPage.py-SignTask()-34行]-注册页面
+2021-01-14 16:33:56,323-INFO-[bnal_loginPage.py-LoginTask()-103行]-登录页面
+2021-01-14 16:33:56,327-INFO-[bnal_personPage.py-PersonTask()-47行]-个人中心页面
+2021-01-14 16:33:56,330-INFO-[bnal_settingPage.py-SettingTask()-51行]-设置页面
+2021-01-14 16:33:56,360-INFO-[bnal_homePage.py-click_alert_btn()-34行]-关闭更新弹窗
+2021-01-14 16:33:56,361-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/img_close')
+2021-01-14 16:33:57,168-INFO-[bnal_homePage.py-click_my_btn()-39行]-点击我
+2021-01-14 16:33:57,171-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/tab_me')
+2021-01-14 16:33:58,002-INFO-[bnal_signPage.py-click_exits_account()-29行]-点击已有账号去登陆
+2021-01-14 16:33:58,002-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/textView1')
+2021-01-14 16:34:00,364-INFO-[test_bnal_more.py-test_login()-54行]-当前用例:用户名+正确密码
+2021-01-14 16:34:00,364-INFO-[bnal_loginPage.py-input_account()-79行]-输入账号
+2021-01-14 16:34:00,365-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2021-01-14 16:34:01,527-INFO-[base.py-input_text()-45行]-输入内容:mlili
+2021-01-14 16:34:02,663-INFO-[bnal_loginPage.py-input_password()-88行]-输入密码
+2021-01-14 16:34:02,663-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2021-01-14 16:34:03,264-INFO-[base.py-input_text()-45行]-输入内容:159357li
+2021-01-14 16:34:03,863-INFO-[bnal_loginPage.py-click_login_btn()-93行]-点击登录按钮
+2021-01-14 16:34:03,863-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_button')
+2021-01-14 16:34:04,388-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/tv_user_nikename')
+2021-01-14 16:34:05,912-INFO-[bnal_personPage.py-get_user_name()-37行]-当前获取用户名:mlili
+2021-01-14 16:34:05,912-INFO-[bnal_personPage.py-click_setting_btn()-42行]-点击设置按钮
+2021-01-14 16:34:05,913-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2021-01-14 16:34:07,631-INFO-[base.py-screen_swipe()-69行]-向上滑动
+2021-01-14 16:34:09,087-INFO-[bnal_settingPage.py-click_quit_btn()-39行]-点击退出按钮
+2021-01-14 16:34:09,087-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/setting_logout')
+2021-01-14 16:34:09,316-INFO-[bnal_settingPage.py-click_acc_quit_btn()-45行]-点击确认退出按钮
+2021-01-14 16:34:09,316-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/ymdialog_right_button')
+2021-01-14 16:34:10,614-INFO-[bnal_homePage.py-click_my_btn()-39行]-点击我
+2021-01-14 16:34:10,614-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/tab_me')
+2021-01-14 16:34:11,481-INFO-[bnal_signPage.py-click_exits_account()-29行]-点击已有账号去登陆
+2021-01-14 16:34:11,481-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/textView1')
+2021-01-14 16:34:13,097-INFO-[test_bnal_more.py-test_login()-54行]-当前用例:用户名包含首空格+正确密码
+2021-01-14 16:34:13,098-INFO-[bnal_loginPage.py-input_account()-79行]-输入账号
+2021-01-14 16:34:13,099-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2021-01-14 16:34:14,433-INFO-[base.py-input_text()-45行]-输入内容: mlili
+2021-01-14 16:34:15,488-INFO-[bnal_loginPage.py-input_password()-88行]-输入密码
+2021-01-14 16:34:15,488-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2021-01-14 16:34:15,995-INFO-[base.py-input_text()-45行]-输入内容:159357li
+2021-01-14 16:34:16,511-INFO-[bnal_loginPage.py-click_login_btn()-93行]-点击登录按钮
+2021-01-14 16:34:16,511-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_button')
+2021-01-14 16:34:17,037-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/tv_user_nikename')
+2021-01-14 16:34:18,312-INFO-[bnal_personPage.py-get_user_name()-37行]-当前获取用户名:mlili
+2021-01-14 16:34:18,312-INFO-[bnal_personPage.py-click_setting_btn()-42行]-点击设置按钮
+2021-01-14 16:34:18,314-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2021-01-14 16:34:19,991-INFO-[base.py-screen_swipe()-69行]-向上滑动
+2021-01-14 16:34:21,434-INFO-[bnal_settingPage.py-click_quit_btn()-39行]-点击退出按钮
+2021-01-14 16:34:21,435-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/setting_logout')
+2021-01-14 16:34:21,783-INFO-[bnal_settingPage.py-click_acc_quit_btn()-45行]-点击确认退出按钮
+2021-01-14 16:34:21,783-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/ymdialog_right_button')
+2021-01-14 16:34:23,232-INFO-[bnal_homePage.py-click_my_btn()-39行]-点击我
+2021-01-14 16:34:23,233-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/tab_me')
+2021-01-14 16:34:24,850-INFO-[bnal_signPage.py-click_exits_account()-29行]-点击已有账号去登陆
+2021-01-14 16:34:24,851-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/textView1')
+2021-01-14 16:34:26,631-INFO-[test_bnal_more.py-test_login()-54行]-当前用例:手机号包含尾空格+正确密码
+2021-01-14 16:34:26,631-INFO-[bnal_loginPage.py-input_account()-79行]-输入账号
+2021-01-14 16:34:26,634-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2021-01-14 16:34:27,800-INFO-[base.py-input_text()-45行]-输入内容:13488834010 
+2021-01-14 16:34:28,816-INFO-[bnal_loginPage.py-input_password()-88行]-输入密码
+2021-01-14 16:34:28,816-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2021-01-14 16:34:29,328-INFO-[base.py-input_text()-45行]-输入内容:159357li
+2021-01-14 16:34:29,841-INFO-[bnal_loginPage.py-click_login_btn()-93行]-点击登录按钮
+2021-01-14 16:34:29,841-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_button')
+2021-01-14 16:34:30,373-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/tv_user_nikename')
+2021-01-14 16:34:31,778-INFO-[bnal_personPage.py-get_user_name()-37行]-当前获取用户名:mlili
+2021-01-14 16:34:31,779-INFO-[bnal_personPage.py-click_setting_btn()-42行]-点击设置按钮
+2021-01-14 16:34:31,779-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2021-01-14 16:34:33,558-INFO-[base.py-screen_swipe()-69行]-向上滑动
+2021-01-14 16:34:35,003-INFO-[bnal_settingPage.py-click_quit_btn()-39行]-点击退出按钮
+2021-01-14 16:34:35,003-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/setting_logout')
+2021-01-14 16:34:35,467-INFO-[bnal_settingPage.py-click_acc_quit_btn()-45行]-点击确认退出按钮
+2021-01-14 16:34:35,467-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/ymdialog_right_button')
+2021-01-14 16:34:36,982-INFO-[bnal_homePage.py-click_my_btn()-39行]-点击我
+2021-01-14 16:34:36,983-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/tab_me')
+2021-01-14 16:34:37,948-INFO-[bnal_signPage.py-click_exits_account()-29行]-点击已有账号去登陆
+2021-01-14 16:34:37,948-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/textView1')
+2021-01-14 16:34:39,664-INFO-[test_bnal_more.py-test_login()-54行]-当前用例:手机号+正确密码
+2021-01-14 16:34:39,664-INFO-[bnal_loginPage.py-input_account()-79行]-输入账号
+2021-01-14 16:34:39,664-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2021-01-14 16:34:40,703-INFO-[base.py-input_text()-45行]-输入内容:13488834010
+2021-01-14 16:34:41,720-INFO-[bnal_loginPage.py-input_password()-88行]-输入密码
+2021-01-14 16:34:41,720-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2021-01-14 16:34:42,235-INFO-[base.py-input_text()-45行]-输入内容:159357li
+2021-01-14 16:34:42,746-INFO-[bnal_loginPage.py-click_login_btn()-93行]-点击登录按钮
+2021-01-14 16:34:42,747-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_button')
+2021-01-14 16:34:43,271-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/tv_user_nikename')
+2021-01-14 16:34:44,795-INFO-[bnal_personPage.py-get_user_name()-37行]-当前获取用户名:mlili
+2021-01-14 16:34:44,796-INFO-[bnal_personPage.py-click_setting_btn()-42行]-点击设置按钮
+2021-01-14 16:34:44,796-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2021-01-14 16:34:46,670-INFO-[base.py-screen_swipe()-69行]-向上滑动
+2021-01-14 16:34:48,118-INFO-[bnal_settingPage.py-click_quit_btn()-39行]-点击退出按钮
+2021-01-14 16:34:48,118-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/setting_logout')
+2021-01-14 16:34:48,664-INFO-[bnal_settingPage.py-click_acc_quit_btn()-45行]-点击确认退出按钮
+2021-01-14 16:34:48,664-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/ymdialog_right_button')
+2021-01-14 16:34:50,314-INFO-[bnal_homePage.py-click_my_btn()-39行]-点击我
+2021-01-14 16:34:50,315-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/tab_me')
+2021-01-14 16:34:51,982-INFO-[bnal_signPage.py-click_exits_account()-29行]-点击已有账号去登陆
+2021-01-14 16:34:51,982-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/textView1')
+2021-01-14 16:34:53,567-INFO-[test_bnal_more.py-test_login()-54行]-当前用例:错误手机号+任意密码
+2021-01-14 16:34:53,568-INFO-[bnal_loginPage.py-input_account()-79行]-输入账号
+2021-01-14 16:34:53,568-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2021-01-14 16:34:54,629-INFO-[base.py-input_text()-45行]-输入内容:1348883
+2021-01-14 16:34:55,644-INFO-[bnal_loginPage.py-input_password()-88行]-输入密码
+2021-01-14 16:34:55,645-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2021-01-14 16:34:56,164-INFO-[base.py-input_text()-45行]-输入内容:159357li
+2021-01-14 16:34:56,676-INFO-[bnal_loginPage.py-click_login_btn()-93行]-点击登录按钮
+2021-01-14 16:34:56,677-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_button')
+2021-01-14 16:34:57,204-INFO-[base.py-search_ele()-21行]-操作元素:('xpath', "//*[contains(@text,'此用户不存在')]")
+2021-01-14 16:34:57,908-INFO-[base.py-toast_message()-99行]-toast文本:('xpath', "//*[contains(@text,'此用户不存在')]") 存在
+2021-01-14 16:34:57,908-INFO-[bnal_loginPage.py-click_close_login_btn()-98行]-关闭登陆页面
+2021-01-14 16:34:57,909-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2021-01-14 16:34:57,949-INFO-[bnal_homePage.py-click_my_btn()-39行]-点击我
+2021-01-14 16:34:57,950-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/tab_me')
+2021-01-14 16:34:59,764-INFO-[bnal_signPage.py-click_exits_account()-29行]-点击已有账号去登陆
+2021-01-14 16:34:59,765-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/textView1')
+2021-01-14 16:35:01,763-INFO-[test_bnal_more.py-test_login()-54行]-当前用例:正确用户名+错误密码
+2021-01-14 16:35:01,764-INFO-[bnal_loginPage.py-input_account()-79行]-输入账号
+2021-01-14 16:35:01,764-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2021-01-14 16:35:03,496-INFO-[base.py-input_text()-45行]-输入内容:mlili
+2021-01-14 16:35:04,633-INFO-[bnal_loginPage.py-input_password()-88行]-输入密码
+2021-01-14 16:35:04,633-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2021-01-14 16:35:05,762-INFO-[base.py-input_text()-45行]-输入内容:159357
+2021-01-14 16:35:06,362-INFO-[bnal_loginPage.py-click_login_btn()-93行]-点击登录按钮
+2021-01-14 16:35:06,363-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/logon_button')
+2021-01-14 16:35:07,568-INFO-[base.py-search_ele()-21行]-操作元素:('xpath', "//*[contains(@text,'登录密码错误')]")
+2021-01-14 16:35:08,293-INFO-[base.py-toast_message()-99行]-toast文本:('xpath', "//*[contains(@text,'登录密码错误')]") 存在
+2021-01-14 16:35:08,294-INFO-[bnal_loginPage.py-click_close_login_btn()-98行]-关闭登陆页面
+2021-01-14 16:35:08,294-INFO-[base.py-search_ele()-21行]-操作元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')

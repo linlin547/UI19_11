@@ -1,0 +1,40 @@
+[
+  {
+    "account": "mlili",
+    "password": "159357li",
+    "exp": "mlili",
+    "desc": "用户名+正确密码"
+  },
+  {
+    "account": " mlili",
+    "password": "159357li",
+    "exp": "mlili",
+    "desc": "用户名包含首空格+正确密码"
+  },
+  {
+    "account": "13488834010 ",
+    "password": "159357li",
+    "exp": "mlili",
+    "desc": "手机号包含尾空格+正确密码"
+  },
+  {
+    "account": "13488834010",
+    "password": "159357li",
+    "exp": "mlili",
+    "desc": "手机号+正确密码"
+  },
+  {
+    "account": "1348883",
+    "password": "159357li",
+    "exp": "此用户不存在",
+    "tag": "1",
+    "desc": "错误手机号+任意密码"
+  },
+  {
+    "account": "mlili",
+    "password": "159357",
+    "exp": "登录密码错误",
+    "tag": "1",
+    "desc": "正确用户名+错误密码"
+  }
+]
